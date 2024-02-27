@@ -1,5 +1,5 @@
 # Frontend Mentor - QR code component solution
 <ul>
-html<li/>
-css<li/>
+<li>html<li/>
+<li>css<li/>
 <ul>
