@@ -16,7 +16,7 @@ The technical I use in this project is basic just HTML CSS and JS only.
 
 - HTML5
 - CSS
-- JS
+
 
 ## Author
 
