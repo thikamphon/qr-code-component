@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-The technical I use in this project is very basic just HTML CSS and JS only.
+The technical I use in this project is basic just HTML CSS and JS only.
 
 
 # Overview
